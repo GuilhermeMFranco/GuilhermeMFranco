@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
 ###
